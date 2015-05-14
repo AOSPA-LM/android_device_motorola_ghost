@@ -1,7 +1,7 @@
 [
     {
         "remote":      "github",
-        "repository":  "AOSPA-LM/android_device_motorola_msm8960dt-common",
+        "repository":  "AOSPA-L/android_device_motorola_msm8960dt-common",
         "target_path": "device/motorola/msm8960dt-common",
         "revision":    "lollipop-mr1"
     },
